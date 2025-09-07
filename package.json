@@ -1,7 +1,8 @@
 {
-  "name": "next-toolkit",
+  "name": "next-server-starter",
   "version": "0.1.0",
   "private": true,
+  "author": "Oskar Hulter",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
